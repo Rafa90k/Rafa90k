@@ -19,6 +19,7 @@
  <img align="center" alt="Rafa-css" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
  
  ##
+ ![Snake animation](https://github.com/Rafa90k/Rafa90k/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 - 😀 Olá, me chamo Rafael Santos
