@@ -1,4 +1,4 @@
-## Olá, sou o Rafael e sou estudante de back-end Java!
+## Olá, sou o Rafael e sou estágiario de back-end .Net!
 <div align="center">
   <a href="https://github.com/Rafa90k">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa90k&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -23,8 +23,8 @@
  
 </div>
 - 😀 Olá, me chamo Rafael Santos
-- 🔭 Faço faculdade de Ciências de dados na Univesp
-- 🌱 Eu estudo Java no momento
+- 🔭 Faço faculdade de Engenharia Da Computação na Univesp
+- 🌱 EStou em um estágio de desenvolvimento back-end com .Net
 - 📫 E-mail para contato: embau12rafael@gmail.com
 - 😄 Pronome: Ele/Dele
 
