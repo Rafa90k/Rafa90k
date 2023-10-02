@@ -1,4 +1,4 @@
-## Olá, sou o Rafael e sou estágiario de back-end .Net!
+## Olá, sou o Rafael  sou analista desenvolvedor back-end .Net, mas atuo com front e banco de dados SQL Server e Oracle Atualmente!
 <div align="center">
   <a href="https://github.com/Rafa90k">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa90k&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
