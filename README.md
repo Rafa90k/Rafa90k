@@ -1,27 +1,36 @@
-## Olá, sou o Rafael  sou analista desenvolvedor back-end .Net, mas também atuo com front e banco de dados SQL Server e Oracle Atualmente!
-<div align="center">
-  <a href="https://github.com/Rafa90k">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rafa90k&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafa90k&layout=compact&langs_count=7&theme=dark"/>
-</div>
-<div style="display: inline_block"><br>
- <div align="center"> 
-  <a href="mailto:embau12eafael.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafael-santos-7528b6167/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   
-   
-   ##
- <img align="center" alt="Rafa-csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />  
- <img align="center" alt="Rafa-Javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
- <img align="center" alt="Rafa-Java" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
- <img align="center" alt="Rafa-html" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
- <img align="center" alt="Rafa-css" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
- 
- 
-</div>
-- 😀 Olá, me chamo Rafael Santos
-- 🔭 Faço faculdade de Engenharia Da Computação na Univesp
-- 🌱 EStou em um estágio de desenvolvimento back-end com .Net
-- 📫 E-mail para contato: embau12rafael@gmail.com
-- 😄 Pronome: Ele/Dele
+# Olá, eu sou Rafael Santos 👋
+
+Sou um Analista Desenvolvedor Back-End com experiência em .NET, Front-End e bancos de dados SQL Server e Oracle.
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=rafa90k" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rafa90k&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+
+
+## Sobre Mim
+- 🔭 Atualmente, estou cursando faculdade de Engenharia da Computação na Univesp.
+- 🌱 Trabalho atualmente com desenvolvimento full stack.
+- 😄 Pronomes: Ele/Dele.
+- 📫 Você pode me contatar por e-mail: embau12rafael@gmail.com.
+
+## Conecte-se comigo
+- LinkedIn: [Rafael Santos](https://www.linkedin.com/in/rafael-santos-7528b6167/)
+- E-mail: [embau12rafael@gmail.com](mailto:embau12rafael@gmail.com)
+
+## Linguagens e Tecnologias
+Aqui estão algumas das linguagens e tecnologias com as quais trabalho:
+
+- <img alt="C#" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+- <img alt="JavaScript" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+- <img alt="HTML5" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
+- <img alt="SQL Server" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
+- <img alt="AngularJS" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+- <img alt="jQuery" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />
+- <img alt="Microsoft Azure" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" /> 
+- <img alt=".NET Core" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+- <img alt="Bootstrap" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" />
 
